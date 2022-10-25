@@ -1,0 +1,11 @@
+nltk==3.7
+transformers==4.19.2
+psycopg2==2.9.3
+Pytorch==1.11.0
+transformers==4.19.2
+accelerate==0.9.0
+datasets==2.2.2
+sentencepiece==0.1.96
+protobuf==3.20.1
+scikit-learn==1.1.1
+
