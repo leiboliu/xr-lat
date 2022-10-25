@@ -28,7 +28,7 @@ python3 lm/run_mlm.py \
     --learning_rate=2e-05 \
     --save_total_limit=20
 ### ClinicalBIGBIRD
-The pretrained ClinicalBIGBIRD can be downloaded [here]().
+The pretrained ClinicalBIGBIRD can be downloaded [here](https://unsw-my.sharepoint.com/:f:/g/personal/z5250377_ad_unsw_edu_au/EioZr7d0at9Krjlm37mz-NkBUg6l__57LREL-XK-fFOAjw?e=yAkWrL).
 
 ## 2. ICD coding - Baseline model
 ### Data preparation
