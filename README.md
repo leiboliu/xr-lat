@@ -66,6 +66,8 @@ python3 -m pecos.utils.featurization.text.preprocess build --text-pos 0 --input-
 python3 -m pecos.utils.featurization.text.preprocess run --text-pos 0 --input-preprocessor-folder ./tfidf-model --input-text-path ../data/mimic3/full-xr/train.txt --output-inst-path ./data/train.tfidf.npz
 
 python3 -m pecos.utils.featurization.text.preprocess run --text-pos 0 --input-preprocessor-folder ./tfidf-model --input-text-path ../data/mimic3/full-xr/test.txt --output-inst-path ./data/test.tfidf.npz
+
 5. Training
+
 xr-transformer/train_and_predict.sh
 
