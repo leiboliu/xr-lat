@@ -1,6 +1,6 @@
 # Using Transformer-based Models for Automated ICD Coding: Extreme Multi-label Long Text Classification
 
-The source code is for the research: [Using Transformer-based Models for Automated ICD Coding: Extreme Multi-label Long Text Classification](https://).
+The source code is for the research: [Automated ICD Coding using Extreme Multi-label Long Text Transformer-based Models](https://arxiv.org/abs/2212.05857).
 
 ## Prerequisites
 Restore [MIMIC-III v1.4 data](https://physionet.org/content/mimiciii/1.4/) into a Postgres database. 
