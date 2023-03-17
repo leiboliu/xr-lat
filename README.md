@@ -58,7 +58,7 @@ python3 xr-lat/run_coding.py config-xrlat.json
 python3 data_processing.prepare_xrtransformer_data.py
 2. Install [libpecos](https://github.com/amzn/pecos)
 Use install and develop locally option.
-3. Replace /pecos/xmc/xtransformer/network.py by xr-transformer.network.py
+3. Replace /pecos/xmc/xtransformer/network.py with xr-transformer.network.py
 4. Create TF-IDF features
 
 python3 -m pecos.utils.featurization.text.preprocess build --text-pos 0 --input-text-path ../data/mimic3/full-xr/train.txt --output-model-folder ./tfidf-model
