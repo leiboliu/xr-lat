@@ -1,4 +1,4 @@
-# Using Transformer-based Models for Automated ICD Coding: Extreme Multi-label Long Text Classification
+# Automated ICD Coding using Extreme Multi-label Long Text Transformer-based Models
 
 The source code is for the research: [Automated ICD Coding using Extreme Multi-label Long Text Transformer-based Models](https://arxiv.org/abs/2212.05857).
 
